@@ -4,9 +4,8 @@
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/2amigos/yii2-usuario/issues?state=open",
-        "forum": "https://gitter.im/2amigos/yii2-usuario",
-        "source": "https://github.com/2amigos/yii2-usuario"
+        "issues": "https://github.com/2amigos/yii2-twilio-component/issues?state=open",
+        "source": "https://github.com/2amigos/yii2-twilio-component"
     },
     "keywords": [
         "2amigos",
