@@ -1,0 +1,50 @@
+{
+    "name": "2amigos/yii2-twilio-component",
+    "description": "A Yii2 Application Component to ease the use of twilio SDK",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/2amigos/yii2-usuario/issues?state=open",
+        "forum": "https://gitter.im/2amigos/yii2-usuario",
+        "source": "https://github.com/2amigos/yii2-usuario"
+    },
+    "keywords": [
+        "2amigos",
+        "yii",
+        "yii2",
+        "yii 2",
+        "yii framework",
+        "twilio",
+        "sms",
+        "voice"
+    ],
+    "authors": [
+        {
+            "name": "2amigOS! Consulting Group",
+            "email": "hola@2amigos.us",
+            "homepage": "http://2amigos.us",
+            "role": "Developer"
+        },
+        {
+            "name": "Antonio Ramirez Cobos",
+            "email": "hola@2amigos.us",
+            "homepage": "http://2amigos.us",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7",
+        "yiisoft/yii2": "~2.0.11",
+        "twilio/sdk": "^5.15"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "dosamigos\\twilio\\": "src"
+        }
+    }
+}
