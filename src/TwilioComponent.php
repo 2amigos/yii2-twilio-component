@@ -111,7 +111,7 @@ class TwilioComponent extends Component
      * @return string
      *
      */
-    protected function parseFrom(string $from): string
+    protected function parseFrom(?string $from): string
     {
         if (null === $from) {
             if (null === $this->phoneNumber) {
