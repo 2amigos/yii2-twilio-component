@@ -1,6 +1,5 @@
 # Twilio Application Component for Yii2
 
-[![Latest Version](https://img.shields.io/github/release/2amigos/yii2-twilio-component.svg?style=flat-square)](https://github.com/2amigos/yii2-twilio-component/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://poser.pugx.org/2amigos/yii2-twilio-component/downloads)](https://packagist.org/packages/2amigos/yii2-twilio-component)
 

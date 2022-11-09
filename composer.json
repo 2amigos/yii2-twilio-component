@@ -34,9 +34,9 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7",
+        "php": ">=7.1",
         "yiisoft/yii2": "~2.0.11",
-        "twilio/sdk": "^5.15"
+        "twilio/sdk": "^6.43.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.3"
